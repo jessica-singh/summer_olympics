@@ -19,7 +19,7 @@ The dataset used for this analysis includes information on Olympic events from 1
 
 ## Files
 - `Olympic_Medals_1976_to_2008.csv`: The dataset containing Olympic medal information.
-- `analysis_notebook.ipynb`: The Jupyter notebook with code and analysis of gender representation and equality trends.
+- `project.ipynb`: The Jupyter notebook with code and analysis of gender representation and equality trends.
 
 ## Analysis
 The analysis consists of:
